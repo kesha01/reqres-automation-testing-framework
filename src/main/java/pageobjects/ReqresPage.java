@@ -19,7 +19,6 @@ public class ReqresPage extends BasePage {
     public static final String SUPPORT_ANCHOR_URL = Config.BASE_URL+ Endpoints.SUPPORT_ANCHOR;
     public static final String PAY_SYSTEM_PARTIAL_URL = "https://checkout.stripe.com/pay/cs_live_a";
     public static final String SUBSCRIBE_PARTIAL_URL = "https://benhowdle.us20.list-manage.com/subscribe/post";
-    public static final String SANDBOX_URL = "https://codesandbox.io/s/polished-butterfly-j17lt?from-embed";
 
     //locators
     By endpoint = By.cssSelector(".url");
