@@ -7,8 +7,9 @@ Response objects
 - test methods of TestUsersApi works with responses from 
   ApiClientUsers and asserts them
   
-So firstly you should create communication with endpoint in 
-ApiClientUsers and then write test in TestUsersApi.
+So firstly you should create [communication with endpoint](#communication-with-endpoint)
+in 
+ApiClientUsers and then [write test](#writing-test) in TestUsersApi.
 
 ## Communication with endpoint
 

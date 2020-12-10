@@ -8,8 +8,8 @@ Logic of UI tests looks this way (Page object pattern):
   class for work
   with this page and test it
   
-So firstly you should write communication with page object
-and then write test in TestReqresUi.
+So firstly you should write [communication with page object](#communication-with-page-object)
+and then [write test](#writing-test) in TestReqresUi.
 
 ## Communication with page object
 
