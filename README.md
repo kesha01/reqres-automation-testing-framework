@@ -6,8 +6,8 @@ execute and report autotests for Reqres app.
 ### Content
 - [Description](#description)
 - [Brief documentation](#brief-documentation)
-- [Development](#development)
 - [About author](#about-author)
+- [Development](#development)
 
 ## Description
 
