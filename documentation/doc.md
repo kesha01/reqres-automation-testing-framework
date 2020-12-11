@@ -159,6 +159,8 @@ extends BasePage
 
 ### TestUsersApi
 
+extends BaseTest
+
 - void main(String[] args) - main method
 
 tests:
@@ -187,6 +189,7 @@ service methods:
 
 ### TestReqresUi
 
+extends BaseTest
 
 - void main(String[] args) - main method
 
