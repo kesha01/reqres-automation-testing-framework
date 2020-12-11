@@ -30,7 +30,7 @@ And [here](https://github.com/yarocher/reqres-automation-testing-framework/tree/
 you can find usage guides with manuals of:
 - [how to write UI tests](https://github.com/yarocher/reqres-automation-testing-framework/blob/v1.0/documentation/usage-guide/how-to-write-ui-tests.md)
 - [how to write API tests](https://github.com/yarocher/reqres-automation-testing-framework/blob/v1.0/documentation/usage-guide/how-to-write-api-tests.md)
-- [how to execute test](https://github.com/yarocher/reqres-automation-testing-framework/blob/v1.0/documentation/usage-guide/how-to-execute-tests.md)
+- [how to execute tests](https://github.com/yarocher/reqres-automation-testing-framework/blob/v1.0/documentation/usage-guide/how-to-execute-tests.md)
 
 
 ## About [author](https://github.com/yarocher)
