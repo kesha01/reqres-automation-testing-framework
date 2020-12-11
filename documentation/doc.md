@@ -93,7 +93,7 @@ request body with POST method
 - void open(String url) - open page with URL
 - void close() - close browser
 
-###ReqresPage
+### ReqresPage
 extends BasePage
 
 - String *INITIAL_PARTIAL_URL* - initial reqres URL
@@ -149,7 +149,7 @@ extends BasePage
 - String getResponseBody() - returns response body text
 
 
-##BaseTest
+## BaseTest
 
 - int testId - test id for counting tests
 - boolean logsOn - logs option
@@ -157,7 +157,7 @@ extends BasePage
 - void log (Response response) - do Response entity log
 - void log (String log) - do String entity log
 
-###TestUsersApi
+### TestUsersApi
 
 - void main(String[] args) - main method
 
@@ -185,7 +185,7 @@ service methods:
 - void pageStatsValidate(JSONObject page) - asserts page stats
 - void supportValidate (JSONObject support) - asserts support data
 
-###TestReqresUi
+### TestReqresUi
 
 
 - void main(String[] args) - main method

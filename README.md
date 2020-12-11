@@ -18,6 +18,8 @@ A testing product was created special for these purposes.
 
 A testing framework includes API & UI layers tests.
 
+Whole documentation you can find [here](https://github.com/yarocher/reqres-automation-testing-framework/blob/v1.0/documentation/doc.md).
+
 ## Brief documentation
 
 Catalogs structure:
